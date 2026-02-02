@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/odevfigueiredo/WinDeckOS/WinDeckOS.png" width="180" alt="WinDeckOS" />
+<img src="https://raw.githubusercontent.com/odevfigueiredo/WinDeckOS/blob/main/WinDeckOS.png" width="180" alt="WinDeckOS" />
 
 # WinDeckOS
 
