@@ -47,7 +47,7 @@ Esses títulos dependem de **anti-cheat em nível de kernel** e exigem Windows:
 
 | Área | WinDeckOS Script | SteamOS |
 |----|----|----|
-| 🧠 Sistema base | Windows 11 | Linux |
+| 🧠 Sistema base | Windows | Linux |
 | 🛡️ Anti-cheat | ✅ Completo | ❌ Limitado |
 | 🎮 Compatibilidade | ✅ Nativa | ⚠️ Proton |
 | 🏆 Jogos competitivos | ✅ Funciona | ❌ Bloqueado |
