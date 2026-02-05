@@ -9,7 +9,7 @@ Inspirado no SteamOS — sem limitações do Linux.
 
 [![Language](https://img.shields.io/badge/README-English-blue?style=for-the-badge)](README.md)
 
-![OS](https://img.shields.io/badge/OS-Windows%2011-blue?style=for-the-badge)
+![OS](https://img.shields.io/badge/OS-Windows%20-blue?style=for-the-badge)
 ![Steam](https://img.shields.io/badge/Steam-Big%20Picture-black?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Gaming-success?style=for-the-badge)
 
