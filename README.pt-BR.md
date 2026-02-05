@@ -2,22 +2,22 @@
 
 <img src="WinDeckOS.png" width="180" alt="WinDeckOS" />
 
-# WinDeckOS
+# WinDeckOS Script
 
 **Experiência Steam em modo console no Windows**  
 Inspirado no SteamOS — sem limitações do Linux.
 
-🌎 [![Language](https://img.shields.io/badge/README-English-blue)](README.md)
+[![Language](https://img.shields.io/badge/README-English-blue?style=for-the-badge)](README.md)
 
-![OS](https://img.shields.io/badge/OS-Windows%2011-blue)
-![Steam](https://img.shields.io/badge/Steam-Big%20Picture-black)
-![Focus](https://img.shields.io/badge/Focus-Gaming-success)
+![OS](https://img.shields.io/badge/OS-Windows%2011-blue?style=for-the-badge)
+![Steam](https://img.shields.io/badge/Steam-Big%20Picture-black?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Gaming-success?style=for-the-badge)
 
 </div>
 
 ---
 
-## ❓ O que é o WinDeckOS?
+## ❓ O que é o WinDeckOS Script?
 
 **WinDeckOS não é um sistema operacional.**  
 É um **fluxo de inicialização e shell do Windows** criado para transformar PCs e portáteis em uma **experiência Steam estilo console**.
@@ -43,9 +43,9 @@ Esses títulos dependem de **anti-cheat em nível de kernel** e exigem Windows:
 
 ---
 
-## ⚔️ WinDeckOS vs SteamOS
+## ⚔️ WinDeckOS Script vs SteamOS
 
-| Área | WinDeckOS | SteamOS |
+| Área | WinDeckOS Script | SteamOS |
 |----|----|----|
 | 🧠 Sistema base | Windows 11 | Linux |
 | 🛡️ Anti-cheat | ✅ Completo | ❌ Limitado |
@@ -155,6 +155,6 @@ Projeto independente.
 Não afiliado à Valve ou à Microsoft.
 
 <p align="center"> 
-    <b>WinDeckOS</b><br/> 
+    <b>WinDeckOS Script</b><br/> 
     🎮 Fluxo estilo SteamOS · 🪟 Compatibilidade total com Windows 
 </p>

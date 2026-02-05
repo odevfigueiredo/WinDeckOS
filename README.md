@@ -2,22 +2,22 @@
 
 <img src="WinDeckOS.png" width="180" alt="WinDeckOS" />
 
-# WinDeckOS
+# WinDeckOS Script
 
 **Console-style Steam experience on Windows**  
 Inspired by SteamOS — without Linux limitations.
 
-🌎 [![Idioma](https://img.shields.io/badge/README-Português%20(BR)-green)](README.pt-BR.md)
+[![Idioma](https://img.shields.io/badge/README-Português%20(BR)-green?style=for-the-badge)](README.pt-BR.md)
 
-![OS](https://img.shields.io/badge/OS-Windows%2011-blue)
-![Steam](https://img.shields.io/badge/Steam-Big%20Picture-black)
-![Focus](https://img.shields.io/badge/Focus-Gaming-success)
+![OS](https://img.shields.io/badge/OS-Windows%20-blue?style=for-the-badge)
+![Steam](https://img.shields.io/badge/Steam-Big%20Picture-black?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Gaming-success?style=for-the-badge)
 
 </div>
 
 ---
 
-## ❓ What is WinDeckOS?
+## ❓ What is WinDeckOS Script?
 
 **WinDeckOS is not an operating system.**  
 It is a **Windows boot and shell workflow** designed to turn PCs and handhelds into a **console-like Steam experience**.
@@ -43,11 +43,11 @@ These titles rely on **kernel-level anti-cheat systems** and require Windows:
 
 ---
 
-## ⚔️ WinDeckOS vs SteamOS
+## ⚔️ WinDeckOS Script vs SteamOS
 
-| Area | WinDeckOS | SteamOS |
+| Area | WinDeckOS Script | SteamOS |
 |----|----|----|
-| 🧠 Base system | Windows 11 | Linux |
+| 🧠 Base system | Windows | Linux |
 | 🛡️ Anti-cheat | ✅ Full | ❌ Limited |
 | 🎮 Compatibility | ✅ Native | ⚠️ Proton |
 | 🏆 Competitive games | ✅ Works | ❌ Blocked |
@@ -143,7 +143,7 @@ Create a String Value named `Shell` with:
 
 ---
 
-### 🧹 Removing WinDeckOS
+### 🧹 Removing WinDeckOS Script
 
 *❗ Simply delete the `Shell` string value from the registry.*
 
@@ -156,4 +156,4 @@ Windows will boot normally again.
 Independent project.
 Not affiliated with Valve or Microsoft.
 
-<p align="center"> <b>WinDeckOS</b><br/> 🎮 SteamOS-like workflow · 🪟 Windows-level compatibility </p>
+<p align="center"> <b>WinDeckOS Script</b><br/> 🎮 SteamOS-like workflow · 🪟 Windows-level compatibility </p>
